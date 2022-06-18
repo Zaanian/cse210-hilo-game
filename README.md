@@ -8,6 +8,8 @@ The player loses 75 points if they guessed incorrectly.
 The game asks if the player wants to play again.
 The game is over when the score reaches zero or the player says no to continue playing.
 
+Put the card.py file and the game.py file into a folder called gamecards.
+
 Author: Stephen Stauffer 
 Class: cse210
 Group: Team 3
